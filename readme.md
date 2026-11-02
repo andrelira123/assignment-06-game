@@ -1,6 +1,10 @@
 Project folder for the Animals In TV Shows trivia game!
 
-![Screenshot 2026-11-02 at 11.11.19 AM](/Users/wpp42030/Desktop/Screenshot 2026-11-02 at 11.11.19 AM.png)Features:
+![https://raw.githubusercontent.com/andrelira123/assignment-06-game/refs/heads/master/Images/readme_images/img_hint.png](https://raw.githubusercontent.com/andrelira123/assignment-06-game/refs/heads/master/Images/readme_images/img_hint.png)
+
+
+
+Features:
 
 - Database of 43 shows containing animal characters
 - Two current game types:
