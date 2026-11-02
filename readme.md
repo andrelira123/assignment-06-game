@@ -24,3 +24,4 @@ Welcome to the Animals In TV Shows trivia game!
   - "Which animal from this list is a (species)?"
 - Score counter and reset
 - Fun lil custom ASCII title screen (heh)
+- Generative audio "hint" feature that makes a song about the question
