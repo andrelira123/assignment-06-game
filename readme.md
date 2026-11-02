@@ -1,8 +1,10 @@
+# OVERVIEW
+
 Welcome to the Animals In TV Shows trivia game!
 
 ![https://github.com/andrelira123/assignment-06-game/blob/master/Images/readme_images/img_title.png?raw=true](https://github.com/andrelira123/assignment-06-game/blob/master/Images/readme_images/img_title.png?raw=true)
 
-**How to play:**
+# **How to play:**
 
 - After downloading the project folder, run the game by running the main code block.
 - The game will take a few seconds to load in order to generate the title music (a new song every time!)
@@ -22,7 +24,7 @@ Welcome to the Animals In TV Shows trivia game!
   
   - If you want to restart, just click the "Start over" button and your score will reset to 0.
 
-**Features**:
+# **Features**:
 
 - Database of 43 shows containing animal characters
 - Two current game types:
