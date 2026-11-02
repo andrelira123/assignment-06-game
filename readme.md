@@ -2,10 +2,6 @@ Welcome to the Animals In TV Shows trivia game!
 
 ![https://github.com/andrelira123/assignment-06-game/blob/master/Images/readme_images/img_trivia_title.png?raw=true](https://github.com/andrelira123/assignment-06-game/blob/master/Images/readme_images/img_trivia_title.png?raw=true)
 
-
-
-![https://raw.githubusercontent.com/andrelira123/assignment-06-game/refs/heads/master/Images/readme_images/img_hint.png](https://raw.githubusercontent.com/andrelira123/assignment-06-game/refs/heads/master/Images/readme_images/img_hint.png)
-
 **How to play:**
 
 - After downloading the project folder, run the game by running the main code block.
