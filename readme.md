@@ -18,6 +18,8 @@ Welcome to the Animals In TV Shows trivia game!
 
   - If you need a hint, click the "Hint" button and Google Lyria will generate a song about the character to give you some context clues as to what species it is or what show it might be from.
 
+  - You'll have 12 questions to answer and depending on your final score after 12 rounds, be given a rating on how well you know your animal trivia.
+  
   - If you want to restart, just click the "Start over" button and your score will reset to 0.
 
 **Features**:
@@ -27,5 +29,5 @@ Welcome to the Animals In TV Shows trivia game!
   - "What species is the animal ____ from the show ____?"
   - "Which animal from this list is a (species)?"
 - Score counter and reset
-- Fun lil custom ASCII title screen (heh)
-- Generative audio "hint" feature that makes a song about the question
+- Fun lil animated custom ASCII title screen (heh)
+- Generative audio "hint" feature that makes a song about the animal in question
