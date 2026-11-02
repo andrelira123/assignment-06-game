@@ -10,7 +10,7 @@ Welcome to the Animals In TV Shows trivia game!
 
 ![https://github.com/andrelira123/assignment-06-game/blob/master/Images/readme_images/img_main_ui.png?raw=true](https://github.com/andrelira123/assignment-06-game/blob/master/Images/readme_images/img_main_ui.png?raw=true)
 
-- While in game:
+- **While in game**:
 
   - You can turn off the Jeopardy music by clicking the "Trivia music:on" button at the top of the UI
 
