@@ -6,7 +6,16 @@ Welcome to the Animals In TV Shows trivia game!
 
 # **How to play:**
 
-- After downloading the project folder, run the game by running the main code block.
+- Download or clone this entire repo.
+- Enter these in the terminal window:
+- ```
+  python3 -m venv .venv
+  source .venv/bin/activate
+  python -m pip install -r requirements.txt
+  ```
+
+- Create a new jupyter notebook for this project folder
+- After opening the .ipynb file in Jupyter, run the game by running the main code block.
 - The game will take a few seconds to load in order to generate the title music (a new song every time!)
 - Press the green Play icon to begin.
 
