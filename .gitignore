@@ -1,6 +1,7 @@
-/venv
-/Data
+/venv/
+/Data/
 .ipynb_checkpoints
 .DS_store
-/Pokegames
-/GameArchive
+/Pokegames/
+/GameArchive/
+keys/
